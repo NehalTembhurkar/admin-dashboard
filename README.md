@@ -5,6 +5,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Install dependencies which are required for this project
+
+###  'npm i react-icons'
+
+### 'npm i react-router-dom'
+
+### 'npm i antd'
+
+### 'npm install @ant-design/charts'  if this not work try using  '--froce' at the end
+
+Install any Text Editor you want
+
+### 'npm i react-rte --force'  OR  'npm i react-quill'
+
+### 'npm install react-form-stepper --save --force
+
+After installing all dependencies you can start the server
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
